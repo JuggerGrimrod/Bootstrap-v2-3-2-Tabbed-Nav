@@ -30,7 +30,7 @@ This Bootstrap 2.3.2 tabbed navigation demonstration was tested from a productio
 
 Future enhancements for this demonstration include:
 
-  * Clone of this Github demonstration using **Bootstrap 3.3.7** and the **jQuery 2.0.3 library**.
+  * Clone of this Github demonstration using **Bootstrap 3.3.7** and the **jQuery 3.3.1 library**.
   * Clone of this Github demonstration using **Bootstrap 4.0.x** and the **jQuery 3.3.1 library**.
 
 That's it.  Enjoy!
