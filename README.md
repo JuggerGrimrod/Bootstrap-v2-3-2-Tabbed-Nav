@@ -35,6 +35,6 @@ Future enhancements for this demonstration include:
 
 That's it.  Enjoy!
 
-## Jugger Grimrod's Bootstrap 2.3.2 Tabbed Nav Local and Remote README.md file v1.0.0 
+## Bootstrap 2.3.2 Tabbed Nav Local and Remote README.md file v1.0.0 
 
 ### Free to all via GNU General Public License v3.0.
